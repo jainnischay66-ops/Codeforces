@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
@@ -14,8 +14,9 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -37,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 
 ### sortings
@@ -45,6 +47,12 @@
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 
 ---
 
