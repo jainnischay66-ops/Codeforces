@@ -6,17 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (2)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [sortings](#sortings) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.py) |
+| 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.py) |
 
 ### greedy
 
