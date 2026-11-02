@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 14 |
+| 31 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (1)
@@ -21,7 +21,7 @@
 - [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (17)
-- [math](#math) (11)
+- [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
@@ -40,6 +40,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.py) |
 
 ### bitmasks
@@ -119,6 +120,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1743/A%20-%20Password/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.py) |
