@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 15 |
+| 35 | 15 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [brute force](#brute-force) (9)
 - [combinatorics](#combinatorics) (2)
 - [games](#games) (2)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (13)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
@@ -91,6 +91,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
+| 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.py) |
 | 2139B | [Cake Collection](https://codeforces.com/contest/2139/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2139/B%20-%20Cake%20Collection/solution.py) |
@@ -112,6 +113,7 @@
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 958B1 | [Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/958/B1%20-%20Maximum%20Control%20(easy)/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
+| 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1669/A%20-%20Division%3F/solution.py) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1692/A%20-%20Marathon/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
