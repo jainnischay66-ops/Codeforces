@@ -1,17 +1,10 @@
-<h2><a href="https://codeforces.com/contest/1351/problem/B" target="_blank" rel="noopener noreferrer">1351B — Square?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 900 |
-| **Language** | Python 3 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 1351B](https://codeforces.com/contest/1351/problem/B) |
-
-## Topics
-`brute force` `implementation` `math`
-
----
-
-## Problem Statement
-
-_Problem statement could not be retrieved. Please visit the link above._
+t = int(input())
+for _ in range(t):
+    a,b = map(int,input().split())
+    c,d = map(int,input().split())
+    e = max(a,b)
+    f = max(c,d)
+    if e==f and (min(a,b)+min(c,d)==e):
+        print("YES")
+    else:
+        print("NO")
