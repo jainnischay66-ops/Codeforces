@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 15 |
+| 36 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (19)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (5)
 - [strings](#strings) (2)
@@ -135,6 +135,7 @@
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
+| 1371A | [Magical Sticks](https://codeforces.com/contest/1371/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1371/A%20-%20Magical%20Sticks/solution.py) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1743/A%20-%20Password/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
