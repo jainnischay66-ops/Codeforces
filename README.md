@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 15 |
+| 44 | 15 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (22)
-- [math](#math) (18)
+- [math](#math) (19)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
 - [strings](#strings) (2)
@@ -141,6 +141,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
+| 515A | [Drazil and Date](https://codeforces.com/contest/515/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/515/A%20-%20Drazil%20and%20Date/solution.py) |
 | 597A | [Divisibility](https://codeforces.com/contest/597/problem/A) | 1600 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/597/A%20-%20Divisibility/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
