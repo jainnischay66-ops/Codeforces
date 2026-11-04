@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 15 |
+| 43 | 15 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [games](#games) (2)
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (21)
+- [implementation](#implementation) (22)
 - [math](#math) (18)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (6)
@@ -116,6 +116,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
+| 725A | [Jumping Ball](https://codeforces.com/contest/725/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/725/A%20-%20Jumping%20Ball/solution.py) |
 | 958B1 | [Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/958/B1%20-%20Maximum%20Control%20(easy)/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
