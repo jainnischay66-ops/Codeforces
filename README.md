@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 15 |
+| 40 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
@@ -42,6 +42,7 @@
 |---|---------|------------|----------|
 | 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.py) |
 | 2278C | [Math and Physics](https://codeforces.com/contest/2278/problem/C) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2278/C%20-%20Math%20and%20Physics/solution.py) |
+| 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.py) |
 
 ### binary search
 
