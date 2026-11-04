@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 15 |
+| 42 | 15 |
 
 ---
 
@@ -14,17 +14,17 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (3)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [combinatorics](#combinatorics) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (20)
-- [math](#math) (17)
+- [implementation](#implementation) (21)
+- [math](#math) (18)
 - [number theory](#number-theory) (3)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (2)
 - [ternary search](#ternary-search) (1)
 
@@ -48,6 +48,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
 | 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1996/A%20-%20Legs/solution.py) |
 
@@ -114,6 +115,7 @@
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 958B1 | [Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/958/B1%20-%20Maximum%20Control%20(easy)/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
@@ -137,6 +139,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 597A | [Divisibility](https://codeforces.com/contest/597/problem/A) | 1600 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/597/A%20-%20Divisibility/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
@@ -167,6 +170,7 @@
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
+| 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.py) |
