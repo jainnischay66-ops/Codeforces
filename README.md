@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 48 | 15 |
+| 49 | 15 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (3)
-- [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (12)
+- [bitmasks](#bitmasks) (2)
+- [brute force](#brute-force) (13)
 - [combinatorics](#combinatorics) (2)
 - [games](#games) (2)
 - [greedy](#greedy) (9)
@@ -57,6 +57,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.py) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.py) |
 
 ### brute force
@@ -70,6 +71,7 @@
 | 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1743/A%20-%20Password/solution.py) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.py) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.py) |
