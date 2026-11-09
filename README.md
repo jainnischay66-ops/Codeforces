@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 16 |
+| 55 | 17 |
 
 ---
 
@@ -16,14 +16,15 @@
 - [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [combinatorics](#combinatorics) (2)
 - [dp](#dp) (1)
 - [games](#games) (2)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (26)
-- [math](#math) (22)
+- [math](#math) (23)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (8)
 - [strings](#strings) (3)
@@ -68,6 +69,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/171/D%20-%20Broken%20checker/solution.py) |
+| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.py) |
@@ -100,6 +102,12 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.py) |
+
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 
 ### greedy
 
@@ -158,6 +166,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
