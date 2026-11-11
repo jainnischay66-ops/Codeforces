@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 18 |
+| 60 | 18 |
 
 ---
 
@@ -23,8 +23,8 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (29)
-- [math](#math) (23)
+- [implementation](#implementation) (30)
+- [math](#math) (24)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (9)
 - [strings](#strings) (3)
@@ -161,6 +161,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.py) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.py) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1873/D%20-%201D%20Eraser/solution.py) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.py) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.py) |
@@ -186,6 +187,7 @@
 | 1560B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1560/B%20-%20Who's%20Opposite%3F/solution.py) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1743/A%20-%20Password/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.py) |
 | 1881B | [Three Threadlets](https://codeforces.com/contest/1881/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1881/B%20-%20Three%20Threadlets/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.py) |
