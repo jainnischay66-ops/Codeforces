@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 18 |
+| 62 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (7)
 - [binary search](#binary-search) (3)
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (15)
@@ -48,6 +48,8 @@
 | 2280A | [Are They the Same?](https://codeforces.com/contest/2280/problem/A) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2280/A%20-%20Are%20They%20the%20Same%3F/solution.py) |
 | 2283A | [Numbers on the Board](https://codeforces.com/contest/2283/problem/A) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2283/A%20-%20Numbers%20on%20the%20Board/solution.py) |
 | 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.py) |
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.py) |
+| 2290E | [Avalanche](https://codeforces.com/contest/2290/problem/E) | Unrated | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2290/E%20-%20Avalanche/solution.py) |
 
 ### binary search
 
