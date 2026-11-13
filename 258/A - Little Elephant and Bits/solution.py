@@ -1,0 +1,5 @@
+s = input().strip()
+if "0" in s:
+    print(s.replace("0", "", 1))
+else:
+    print(s[1:])
