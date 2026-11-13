@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 69 | 18 |
+| 70 | 18 |
 
 ---
 
@@ -23,7 +23,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (27)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
@@ -147,6 +147,7 @@
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 227B | [Effective Approach](https://codeforces.com/contest/227/problem/B) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/227/B%20-%20Effective%20Approach/solution.py) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.py) |
