@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 18 |
+| 66 | 18 |
 
 ---
 
@@ -21,9 +21,9 @@
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (26)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
@@ -124,6 +124,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 253A | [Boys and Girls](https://codeforces.com/contest/253/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/253/A%20-%20Boys%20and%20Girls/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/892/A%20-%20Greed/solution.py) |
 | 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
@@ -154,6 +155,7 @@
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 725A | [Jumping Ball](https://codeforces.com/contest/725/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/725/A%20-%20Jumping%20Ball/solution.py) |
+| 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/892/A%20-%20Greed/solution.py) |
 | 958B1 | [Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/958/B1%20-%20Maximum%20Control%20(easy)/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
