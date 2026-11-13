@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 19 |
+| 72 | 19 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (15)
+- [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (14)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (36)
+- [implementation](#implementation) (37)
 - [math](#math) (27)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
@@ -77,6 +77,7 @@
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/171/D%20-%20Broken%20checker/solution.py) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
+| 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/479/A%20-%20Expression/solution.py) |
 | 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
@@ -164,6 +165,7 @@
 | 342A | [Xenia and Divisors](https://codeforces.com/contest/342/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/342/A%20-%20Xenia%20and%20Divisors/solution.py) |
 | 353A | [Domino](https://codeforces.com/contest/353/problem/A) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/353/A%20-%20Domino/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 725A | [Jumping Ball](https://codeforces.com/contest/725/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/725/A%20-%20Jumping%20Ball/solution.py) |
