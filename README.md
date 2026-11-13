@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 18 |
+| 65 | 18 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [greedy](#greedy) (12)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (31)
-- [math](#math) (25)
+- [math](#math) (26)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
 - [strings](#strings) (3)
@@ -186,6 +186,7 @@
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 515A | [Drazil and Date](https://codeforces.com/contest/515/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/515/A%20-%20Drazil%20and%20Date/solution.py) |
 | 597A | [Divisibility](https://codeforces.com/contest/597/problem/A) | 1600 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/597/A%20-%20Divisibility/solution.py) |
+| 598A | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/598/A%20-%20Tricky%20Sum/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
