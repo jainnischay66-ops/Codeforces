@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 19 |
+| 77 | 19 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (17)
+- [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
@@ -24,8 +24,8 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (38)
-- [math](#math) (28)
+- [implementation](#implementation) (39)
+- [math](#math) (29)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (10)
 - [strings](#strings) (3)
@@ -75,6 +75,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.py) |
+| 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/171/D%20-%20Broken%20checker/solution.py) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
@@ -155,6 +156,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 102B | [Sum of Digits](https://codeforces.com/contest/102/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/102/B%20-%20Sum%20of%20Digits/solution.py) |
@@ -199,6 +201,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.py) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
