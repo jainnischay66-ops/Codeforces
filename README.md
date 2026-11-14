@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 19 |
+| 75 | 19 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [implementation](#implementation) (38)
 - [math](#math) (28)
 - [number theory](#number-theory) (4)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (1)
@@ -241,6 +241,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/B%20-%20Sale/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
+| 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/456/A%20-%20Laptops/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
