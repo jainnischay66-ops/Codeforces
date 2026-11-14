@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 19 |
+| 74 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (37)
+- [implementation](#implementation) (38)
 - [math](#math) (28)
 - [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
@@ -155,6 +155,7 @@
 |---|---------|------------|----------|
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/96/A%20-%20Football/solution.py) |
+| 102B | [Sum of Digits](https://codeforces.com/contest/102/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/102/B%20-%20Sum%20of%20Digits/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/133/A%20-%20HQ9%2B/solution.py) |
