@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 19 |
+| 79 | 19 |
 
 ---
 
@@ -25,8 +25,8 @@
 - [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (40)
-- [math](#math) (29)
-- [number theory](#number-theory) (4)
+- [math](#math) (30)
+- [number theory](#number-theory) (5)
 - [sortings](#sortings) (10)
 - [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
@@ -203,6 +203,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
+| 84A | [Toy Army](https://codeforces.com/contest/84/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/84/A%20-%20Toy%20Army/solution.py) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.py) |
 | 258A | [Little Elephant and Bits](https://codeforces.com/contest/258/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/258/A%20-%20Little%20Elephant%20and%20Bits/solution.py) |
@@ -235,6 +236,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 84A | [Toy Army](https://codeforces.com/contest/84/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/84/A%20-%20Toy%20Army/solution.py) |
 | 230B | [T-primes](https://codeforces.com/contest/230/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/230/B%20-%20T-primes/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
