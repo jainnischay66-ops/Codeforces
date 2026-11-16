@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 19 |
+| 84 | 19 |
 
 ---
 
@@ -18,14 +18,14 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (18)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (42)
-- [math](#math) (30)
+- [implementation](#implementation) (43)
+- [math](#math) (31)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (11)
 - [strings](#strings) (3)
@@ -107,6 +107,7 @@
 |---|---------|------------|----------|
 | 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.py) |
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
+| 777A | [Shell Game](https://codeforces.com/contest/777/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/777/A%20-%20Shell%20Game/solution.py) |
 
 ### dp
 
@@ -180,6 +181,7 @@
 | 519A | [A and B and Chess](https://codeforces.com/contest/519/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/519/A%20-%20A%20and%20B%20and%20Chess/solution.py) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
 | 725A | [Jumping Ball](https://codeforces.com/contest/725/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/725/A%20-%20Jumping%20Ball/solution.py) |
+| 777A | [Shell Game](https://codeforces.com/contest/777/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/777/A%20-%20Shell%20Game/solution.py) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/892/A%20-%20Greed/solution.py) |
 | 958B1 | [Maximum Control (easy)](https://codeforces.com/contest/958/problem/B1) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/958/B1%20-%20Maximum%20Control%20(easy)/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
@@ -217,6 +219,7 @@
 | 515A | [Drazil and Date](https://codeforces.com/contest/515/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/515/A%20-%20Drazil%20and%20Date/solution.py) |
 | 597A | [Divisibility](https://codeforces.com/contest/597/problem/A) | 1600 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/597/A%20-%20Divisibility/solution.py) |
 | 598A | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/598/A%20-%20Tricky%20Sum/solution.py) |
+| 777A | [Shell Game](https://codeforces.com/contest/777/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/777/A%20-%20Shell%20Game/solution.py) |
 | 1110A | [Parity](https://codeforces.com/contest/1110/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1110/A%20-%20Parity/solution.py) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
