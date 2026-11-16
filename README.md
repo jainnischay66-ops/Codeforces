@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 82 | 19 |
+| 83 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (41)
+- [implementation](#implementation) (42)
 - [math](#math) (30)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (11)
@@ -177,6 +177,7 @@
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
+| 519A | [A and B and Chess](https://codeforces.com/contest/519/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/519/A%20-%20A%20and%20B%20and%20Chess/solution.py) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
 | 725A | [Jumping Ball](https://codeforces.com/contest/725/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/725/A%20-%20Jumping%20Ball/solution.py) |
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/892/A%20-%20Greed/solution.py) |
