@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/656/problem/G" target="_blank" rel="noopener noreferrer">656G — You're a Professional</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 1900 |
+| **Language** | Kotlin 2.2 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 656G](https://codeforces.com/contest/656/problem/G) |
+
+## Topics
+`*special`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">G. You're a Professional</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>A simple recommendation system would recommend a user things liked by a certain number of their friends. In this problem you will implement part of such a system.</p><p>You are given user's friends' opinions about a list of items. You are also given a threshold <span class="tex-span"><i>T</i></span> — the minimal number of "likes" necessary for an item to be recommended to the user.</p><p>Output the number of items in the list liked by at least <span class="tex-span"><i>T</i></span> of user's friends.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input will contain three space-separated integers: the number of friends <span class="tex-span"><i>F</i></span> (<span class="tex-span">1 ≤ <i>F</i> ≤ 10</span>), the number of items <span class="tex-span"><i>I</i></span> (<span class="tex-span">1 ≤ <i>I</i> ≤ 10</span>) and the threshold <span class="tex-span"><i>T</i></span> (<span class="tex-span">1 ≤ <i>T</i> ≤ <i>F</i></span>).</p><p>The following <span class="tex-span"><i>F</i></span> lines of input contain user's friends' opinions. <span class="tex-span"><i>j</i></span>-th character of <span class="tex-span"><i>i</i></span>-th line is '<span class="tex-font-style-tt">Y</span>' if <span class="tex-span"><i>i</i></span>-th friend likes <span class="tex-span"><i>j</i></span>-th item, and '<span class="tex-font-style-tt">N</span>' otherwise.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output an integer — the number of items liked by at least <span class="tex-span"><i>T</i></span> of user's friends.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0004489917764858753" id="id009482129544071333" class="input-output-copier">Copy</div></div><pre id="id0004489917764858753">3 3 2<br>YYY<br>NNN<br>YNY<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00312267236777517" id="id007139905119210099" class="input-output-copier">Copy</div></div><pre id="id00312267236777517">2<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008422578131165582" id="id006714580061338622" class="input-output-copier">Copy</div></div><pre id="id008422578131165582">4 4 1<br>NNNY<br>NNYN<br>NYNN<br>YNNN<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004818732568921399" id="id00843649571106517" class="input-output-copier">Copy</div></div><pre id="id004818732568921399">4<br></pre></div></div></div>
