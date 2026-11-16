@@ -1,0 +1,6 @@
+// kitten
+fun main() {
+    val (n, m, k) = readLine()!!.split(" ").map { it.toInt() }
+    val r = List(n) { readLine()!! }
+    println((0 until m).count { j -> r.count { it[j] == 'Y' } >= k })
+}
