@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 19 |
+| 88 | 19 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [implementation](#implementation) (45)
 - [math](#math) (32)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (11)
+- [sortings](#sortings) (12)
 - [strings](#strings) (3)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (1)
@@ -264,6 +264,7 @@
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
+| 572A | [Arrays](https://codeforces.com/contest/572/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/572/A%20-%20Arrays/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
