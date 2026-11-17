@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 19 |
+| 86 | 19 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
-- [games](#games) (2)
+- [games](#games) (3)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (44)
-- [math](#math) (31)
+- [math](#math) (32)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (11)
 - [strings](#strings) (3)
@@ -121,6 +121,7 @@
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.py) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.py) |
 
 ### geometry
 
@@ -239,6 +240,7 @@
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.py) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.py) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.py) |
+| 2261C | [I Know About a Million Things](https://codeforces.com/contest/2261/problem/C) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2261/C%20-%20I%20Know%20About%20a%20Million%20Things/solution.py) |
 
 ### number theory
 
