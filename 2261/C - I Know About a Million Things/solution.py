@@ -6,6 +6,8 @@ for _ in range(t):
     for i in a:
         if i%2:
             odd+=1
+        if odd>=3:
+            break
     if n==1 or odd==0:
         print("Moggity")
     elif (n==2 and odd==1) or(odd==3==n):
