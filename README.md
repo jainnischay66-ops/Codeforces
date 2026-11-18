@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 90 | 19 |
+| 91 | 19 |
 
 ---
 
@@ -24,11 +24,11 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (46)
+- [implementation](#implementation) (47)
 - [math](#math) (32)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (12)
-- [strings](#strings) (3)
+- [sortings](#sortings) (13)
+- [strings](#strings) (4)
 - [ternary search](#ternary-search) (1)
 - [two pointers](#two-pointers) (1)
 
@@ -163,6 +163,7 @@
 |---|---------|------------|----------|
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
 | 34A | [Reconnaissance 2](https://codeforces.com/contest/34/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/A%20-%20Reconnaissance%202/solution.py) |
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 102B | [Sum of Digits](https://codeforces.com/contest/102/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/102/B%20-%20Sum%20of%20Digits/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
@@ -260,6 +261,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/34/B%20-%20Sale/solution.py) |
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.py) |
 | 149A | [Business trip](https://codeforces.com/contest/149/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/149/A%20-%20Business%20trip/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/456/A%20-%20Laptops/solution.py) |
@@ -276,6 +278,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 63A | [Sinking Ship](https://codeforces.com/contest/63/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/63/A%20-%20Sinking%20Ship/solution.py) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/96/A%20-%20Football/solution.py) |
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/A%20-%20String%20Task/solution.py) |
