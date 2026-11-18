@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 91 | 19 |
+| 92 | 19 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (19)
+- [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (47)
+- [implementation](#implementation) (48)
 - [math](#math) (32)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (13)
@@ -83,6 +83,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.py) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/479/A%20-%20Expression/solution.py) |
+| 535A | [Tavas and Nafas](https://codeforces.com/contest/535/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/535/A%20-%20Tavas%20and%20Nafas/solution.py) |
 | 1060A | [Phone Numbers](https://codeforces.com/contest/1060/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1060/A%20-%20Phone%20Numbers/solution.py) |
 | 1351B | [Square?](https://codeforces.com/contest/1351/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1351/B%20-%20Square%3F/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
@@ -183,6 +184,7 @@
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 519A | [A and B and Chess](https://codeforces.com/contest/519/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/519/A%20-%20A%20and%20B%20and%20Chess/solution.py) |
+| 535A | [Tavas and Nafas](https://codeforces.com/contest/535/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/535/A%20-%20Tavas%20and%20Nafas/solution.py) |
 | 560A | [Currency System in Geraldion](https://codeforces.com/contest/560/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/560/A%20-%20Currency%20System%20in%20Geraldion/solution.py) |
 | 621A | [Wet Shark and Odd and Even](https://codeforces.com/contest/621/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/621/A%20-%20Wet%20Shark%20and%20Odd%20and%20Even/solution.py) |
 | 678B | [The Same Calendar](https://codeforces.com/contest/678/problem/B) | 1600 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/678/B%20-%20The%20Same%20Calendar/solution.py) |
