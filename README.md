@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 89 | 19 |
+| 90 | 19 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (8)
 - [binary search](#binary-search) (4)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (18)
+- [brute force](#brute-force) (19)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (1)
@@ -77,6 +77,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 7A | [Kalevitch and Chess](https://codeforces.com/contest/7/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/7/A%20-%20Kalevitch%20and%20Chess/solution.py) |
 | 9C | [Hexadecimal's Numbers](https://codeforces.com/contest/9/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/9/C%20-%20Hexadecimal's%20Numbers/solution.py) |
+| 25A | [IQ test](https://codeforces.com/contest/25/problem/A) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/25/A%20-%20IQ%20test/solution.py) |
 | 171D | [Broken checker](https://codeforces.com/contest/171/problem/D) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/171/D%20-%20Broken%20checker/solution.py) |
 | 224A | [Parallelepiped](https://codeforces.com/contest/224/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/224/A%20-%20Parallelepiped/solution.py) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/231/A%20-%20Team/solution.py) |
