@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 92 | 19 |
+| 93 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (16)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (48)
+- [implementation](#implementation) (49)
 - [math](#math) (32)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (13)
@@ -181,6 +181,7 @@
 | 387A | [George and Sleep](https://codeforces.com/contest/387/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/387/A%20-%20George%20and%20Sleep/solution.py) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.py) |
 | 433A | [Kitahara Haruki's Gift](https://codeforces.com/contest/433/problem/A) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/433/A%20-%20Kitahara%20Haruki's%20Gift/solution.py) |
+| 451A | [Game With Sticks](https://codeforces.com/contest/451/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/451/A%20-%20Game%20With%20Sticks/solution.py) |
 | 459B | [Pashmak and Flowers](https://codeforces.com/contest/459/problem/B) | 1300 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/459/B%20-%20Pashmak%20and%20Flowers/solution.py) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.py) |
 | 519A | [A and B and Chess](https://codeforces.com/contest/519/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/519/A%20-%20A%20and%20B%20and%20Chess/solution.py) |
