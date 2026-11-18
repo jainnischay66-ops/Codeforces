@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 19 |
+| 94 | 20 |
 
 ---
 
@@ -19,13 +19,14 @@
 - [brute force](#brute-force) (20)
 - [combinatorics](#combinatorics) (3)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [dp](#dp) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (49)
-- [math](#math) (32)
+- [math](#math) (33)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (13)
 - [strings](#strings) (4)
@@ -111,11 +112,18 @@
 | 118B | [Present from Lena](https://codeforces.com/contest/118/problem/B) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/118/B%20-%20Present%20from%20Lena/solution.py) |
 | 777A | [Shell Game](https://codeforces.com/contest/777/problem/A) | 1000 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/777/A%20-%20Shell%20Game/solution.py) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.py) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.py) |
 
 ### games
 
@@ -146,6 +154,7 @@
 | 892A | [Greed](https://codeforces.com/contest/892/problem/A) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/892/A%20-%20Greed/solution.py) |
 | 1325B | [CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1325/B%20-%20CopyCopyCopyCopyCopy/solution.py) |
 | 1380C | [Create The Teams](https://codeforces.com/contest/1380/problem/C) | 1400 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1380/C%20-%20Create%20The%20Teams/solution.py) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 1873D | [1D Eraser](https://codeforces.com/contest/1873/problem/D) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1873/D%20-%201D%20Eraser/solution.py) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.py) |
@@ -235,6 +244,7 @@
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.py) |
 | 1371A | [Magical Sticks](https://codeforces.com/contest/1371/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1371/A%20-%20Magical%20Sticks/solution.py) |
 | 1560B | [Who's Opposite?](https://codeforces.com/contest/1560/problem/B) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1560/B%20-%20Who's%20Opposite%3F/solution.py) |
+| 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.py) |
 | 1743A | [Password](https://codeforces.com/contest/1743/problem/A) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1743/A%20-%20Password/solution.py) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.py) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Python 3](https://github.com/jainnischay66-ops/Codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.py) |
